@@ -1,10 +1,15 @@
 # SelfDriving RC Car
-some notes about the WIP self driving RC car project
+some work notes about the WIP self driving RC car project
 
-## overviews
-* 1
-* 2
-
+## Tasks overview
+* [x] choose a RC car
+* [x] install the 2nd floor deck
+* [x] control RC's throttle and steering with PWM
+* [x] ensure the PI camera works
+* [x] LTE internet connection
+* [x] H.264 RTMP upload
+* [x] object detection server(SSD+MobileNet) via tensorflow on google cloud
+* [x] Live view on browser
 
 ## with Slash 4x4 Slash box
 ![jpg](./pics/withbox_top.jpg)
